@@ -1,0 +1,26 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "This app will return weather of city entered",
+  "main": "index.js",
+  "scripts": {
+    "test": "NA"
+  },
+  "author": "Ankita Parulekar",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnkitaParulekar/WeatherApp-NodeJS.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "WeatherApp"
+  ],
+  "bugs": {
+    "url": "https://github.com/AnkitaParulekar/WeatherApp-NodeJS/issues"
+  },
+  "homepage": "https://github.com/AnkitaParulekar/WeatherApp-NodeJS#readme",
+  "dependencies": {
+    "yargs": "^13.2.4"
+  }
+}
